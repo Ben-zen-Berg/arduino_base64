@@ -59,7 +59,7 @@ Serial.println(decoded);
 **Return**
 - A Base64 encoded string.
 
-## void base64_decode(String encoded_string)
+## static String base64_decode(String encoded_string)
 **Arguments**
 - `encoded_string`: A Base64 encoded string.
 
