@@ -38,7 +38,7 @@ Serial.println(encoded);
 
 ## Decode
 ```c++
-const char* encoded = "Zm9vYmFy";
+const char encoded = "Zm9vYmFy";
 String decoded = base64_decode(encoded);
 Serial.println(decoded);
 ```
