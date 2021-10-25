@@ -64,7 +64,7 @@ Serial.println(decoded);
 - `encoded_string`: A Base64 encoded string.
 
 **Return**
-- A simple string (can also be a raw binary data string).
+- A simple string (can also be raw binary data as a string).
 
 # Disclaimer
 According to MIT License.
