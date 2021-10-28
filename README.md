@@ -54,7 +54,7 @@ Serial.println(decoded);
 ## static String base64_encode(char *bytes_to_encode, int len_to_encode)
 **Arguments**
 - `bytes_to_encode`: raw binary data as a byte array.
-- `len_to_encode`: Number of bytes of bytes_to_encode data.
+- `len_to_encode`: Number of bytes in bytes_to_encode data.
 
 **Return**
 - A Base64 encoded string.
